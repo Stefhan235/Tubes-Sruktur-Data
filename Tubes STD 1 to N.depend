@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673230245 source:d:\learn c++\tubes std 1 to n\main.cpp
+	"guild.h"
+	"player.h"
+
+1673230637 source:d:\learn c++\tubes std 1 to n\player.cpp
+	"player.h"
+
+1673230210 source:d:\learn c++\tubes std 1 to n\guild.cpp
+	"guild.h"
+
+1673230210 d:\learn c++\tubes std 1 to n\guild.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1673230233 d:\learn c++\tubes std 1 to n\player.h
+	"guild.h"
+
